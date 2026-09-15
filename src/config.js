@@ -9,13 +9,14 @@ export const CONFIG = {
 
   // Person Details
   person: {
-    fullName: "Mohamed Rafi",
-    arabicName: "محمد رافي",
-    designation: "Area Sales Manager",
+    fullName: "Mohamed Rafi Niyaz Deen",
+    arabicName: "محمد رافي نياز دين",
+    designation: "Head of Business Development | Area Sales Manager",
     arabicDesignation: "مدير مبيعات المنطقة",
     phone: "+966 55 395 1303",
     normalizedPhone: "+966553951303",
     email: "mohamed.rafi@workforcesaudi.com",
+    personalEmail: "mohamedrafi2512@gmail.com",
     vcardSlug: "mohamed-rafi",
     bio: "Connecting customers with reliable workforce solutions and building strong long-term business relationships across the Kingdom of Saudi Arabia and the GCC region.",
     arabicBio: "ربط العملاء بحلول قوى عاملة موثوقة وبناء شراكات تجارية متينة وطويلة الأجل في جميع أنحاء المملكة ومنطقة الخليج."
